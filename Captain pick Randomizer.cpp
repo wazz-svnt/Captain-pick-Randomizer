@@ -1,9 +1,3 @@
-﻿/***************************************************/
-/* Author:     wazz                                */
-/* Program:    Captain pick Randomizer             */
-/* Version:    1.0                                 */
-/***************************************************/
-
 #include <iostream>
 #include <iomanip>
 #include <string>
